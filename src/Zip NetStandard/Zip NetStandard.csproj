@@ -7,6 +7,7 @@
         <RootNamespace>Ionic.Zip</RootNamespace>
         <OutputType>Library</OutputType>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <Platforms>AnyCPU;x64</Platforms>
     </PropertyGroup>
 
     <PropertyGroup>
